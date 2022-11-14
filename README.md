@@ -1,2 +1,2 @@
 # PhysicsExperimental
-გადმოწერეთ და გახსენით Project.rar ზიპ ფაილი, და ჩართეთ აპლიკაცია სახელად "PhysicsExperimental" კომაროვის სკოლის ლოგოთი.
+გადმოწერეთ და დაა-extract-ეთ Project.rar ზიპ ფაილი, და ჩართეთ აპლიკაცია სახელად "PhysicsExperimental" კომაროვის სკოლის ლოგოთი.
